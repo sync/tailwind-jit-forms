@@ -1,0 +1,17 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+policy/html
+out
+bin
+obj
+generated
+*.local
+yarn-error.log
+.npmrc
+.parcel-cache
+html-staging.zip
+html-production.zip
+coverage
+.vscode
